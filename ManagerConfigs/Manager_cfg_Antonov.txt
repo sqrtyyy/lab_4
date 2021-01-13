@@ -1,0 +1,5 @@
+READER_CLASS = ru.spbstu.Antonov_Aleksei.Reader // "configs/Reader_cfg.txt"
+WRITER_CLASS = ru.spbstu.Antonov_Aleksei.Writer // "configs/Writer_cfg.txt"
+INPUT_FILE = in.txt
+OUTPUT_FILE = out.txt
+EXECUTORS = ru.spbstu.Antonov_Aleksei.XOR_Encoder // "configs/XOR_cfg.txt" /__/ ru.spbstu.Antonov_Aleksei.XOR_Encoder // "configs/XOR_cfg.txt"
